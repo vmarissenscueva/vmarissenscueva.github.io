@@ -11,3 +11,6 @@ PhD student at LaBRI‘s [Potioc team](https://team.inria.fr/potioc/fr/) and Lor
 My supervisors are [Fabien Lotte](https://sites.google.com/site/fabienlotte/Home?authuser=0), [Laurent Bougrain](https://members.loria.fr/lbougrain/) and [Sébastien Rimbert](https://members.loria.fr/SRimbert/).
 
 Please, don’t hesitate to [contact me](mailto:valerie.marissens@loria.fr) if you need any additional information!
+
+<a href="https://info.flagcounter.com/VhTc"><img src="https://s01.flagcounter.com/mini/VhTc/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a> | 
+<a href="https://info.flagcounter.com/kPbM"><img src="https://s01.flagcounter.com/mini/kPbM/bg_FFFFFF/txt_000000/border_CCCCCC/flags_1/" alt="Flag Counter" border="0"></a>
