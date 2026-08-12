@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Inria Center at the University of Bordeaux & Loria in Nancy."
   location         : "France"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "valerie.marissens@loria.fr" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-0554-278X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=valerie+marissens+cueva"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=valerie+marissens+cueva"
   researchgate     : "https://www.researchgate.net/profile/Valerie-Marissens-Cueva"
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
