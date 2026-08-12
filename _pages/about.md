@@ -12,5 +12,13 @@ My supervisors are [Fabien Lotte](https://sites.google.com/site/fabienlotte/Home
 
 Please, don’t hesitate to [contact me](mailto:valerie.marissens@loria.fr) if you need any additional information!
 
+Interests:
+- Brain-Computer Interfaces
+- Electroencephalography
+- Neurosciences
+- Anesthesiology
+- Consciousness
+- Artificial Intelligence
+
 <a href="https://info.flagcounter.com/VhTc"><img src="https://s01.flagcounter.com/mini/VhTc/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a> | 
 <a href="https://info.flagcounter.com/kPbM"><img src="https://s01.flagcounter.com/mini/kPbM/bg_FFFFFF/txt_000000/border_CCCCCC/flags_1/" alt="Flag Counter" border="0"></a>
