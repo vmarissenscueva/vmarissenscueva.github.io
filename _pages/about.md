@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD student at LaBRI‘s [Potioc team](https://team.inria.fr/potioc/fr/) and Loria‘s [NeuroRhythms team](https://neurorhythms.loria.fr/), my research activities primarily focus on classifying EEG signals for the use of motor imagery-based Brain-Computer Interfaces (BCI), first for [Grasp-IT](http://graspit.loria.fr/fr/), a BCI that aims to enhance upper limb’s rehabilitation of stroke patients, then for [BCI4IA](https://project.inria.fr/anrbci4ia/fr/), in order to avoid intraoperative awareness under general anesthesia.
+With a background in Computer Science and Artificial Intelligence, I am a PhD student at Inria's [Potioc team](https://team.inria.fr/potioc/fr/) and Loria's [NeuroRhythms team](https://neurorhythms.loria.fr/). My research focuses on brain-computer interfaces, EEG signal processing and machine learning, with a particular interest in developing EEG-based innovative BCI approaches to monitor consciousness during general anesthesia and ultimately improve the detection of intraoperative awareness. My work combines Riemannian machine learning and median nerve stimulation, with applications spanning fundamental neuroscience and clinical research.
 
 My supervisors are [Fabien Lotte](https://sites.google.com/site/fabienlotte/Home?authuser=0), [Laurent Bougrain](https://members.loria.fr/lbougrain/) and [Sébastien Rimbert](https://members.loria.fr/SRimbert/).
 
