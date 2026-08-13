@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023cortico
 excerpt: '**Valérie Marissens Cueva**, Laurent Bougrain'
 date: 2023-05-17
-venue: 'Journées CORTICO 2023'
+venue: 'Journées CORTICO'
 paperurl: 'https://hal.science/hal-04125823/file/Poster_CORTICO_2023.pdf'
 ---
 
