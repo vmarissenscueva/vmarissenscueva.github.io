@@ -8,4 +8,4 @@ date: 2025-06-01
 location: "Banff, Canada"
 ---
 
-[More information here](https://github.com/valeriemarissens/BCI2025-WorkshopAnesthesiaBCI)]
+[More information here](https://github.com/valeriemarissens/BCI2025-WorkshopAnesthesiaBCI)
