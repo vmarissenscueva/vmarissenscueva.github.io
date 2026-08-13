@@ -8,4 +8,4 @@ date: 2025-07-01
 location: "Copenhagen, Denmark"
 ---
 
-[More information here](https://github.com/valeriemarissens/EMBC2025-WorkshopConsciousnessBCI)]
+[More information here](https://github.com/valeriemarissens/EMBC2025-WorkshopConsciousnessBCI)
