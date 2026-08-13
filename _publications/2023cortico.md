@@ -1,7 +1,6 @@
 ---
 title: "Latent Spaces in a Self-Supervised Approach for Detection of Motor Imageries"
 collection: publications
-category: conferences
 permalink: /publication/2023cortico
 excerpt: '**Valérie Marissens Cueva**, Laurent Bougrain'
 date: 2023-05-17
