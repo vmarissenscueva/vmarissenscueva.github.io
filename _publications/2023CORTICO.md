@@ -1,7 +1,7 @@
 ---
 title: "Latent Spaces in a Self-Supervised Approach for Detection of Motor Imageries"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023CORTICO
 #excerpt: ''# 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05
