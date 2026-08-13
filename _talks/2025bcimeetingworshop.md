@@ -9,3 +9,5 @@ location: "Banff, Canada"
 ---
 
 [More information here](https://github.com/valeriemarissens/BCI2025-WorkshopAnesthesiaBCI)
+
+![BCI Meeting in Banff, Canada](/images/Workshop.JPG)
