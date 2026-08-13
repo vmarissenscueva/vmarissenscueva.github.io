@@ -9,3 +9,5 @@ location: "Copenhagen, Denmark"
 ---
 
 [More information here](https://github.com/valeriemarissens/EMBC2025-WorkshopConsciousnessBCI)
+
+![EMBC in Copenhaguen, Denmark](/images/EMBCWks.jpeg)
