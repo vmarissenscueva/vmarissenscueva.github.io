@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Clinical Integration of BCI Technology in General Anesthesia Monitoring"
 collection: talks
-type: "Workshop"
+type: Talk
 permalink: /talks/2025bcimeetingworshop
 venue: "11th International BCI Meeting"
 date: 2025-06-01
