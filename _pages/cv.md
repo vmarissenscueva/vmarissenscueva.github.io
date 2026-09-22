@@ -18,4 +18,4 @@ Education
   * Master in Artificial Intelligence, Vision and Robotics (Université de Lorraine, Nancy, France), 2022
 * Bachelor in Computer Sciences (Université de Lorraine, Nancy, France), 2020
 -->
-Full CV in [pdf].
+Full CV in [pdf](https://github.com/valeriemarissens/files/CV092026.pdf).
