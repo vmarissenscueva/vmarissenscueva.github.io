@@ -9,3 +9,5 @@ location: "Graz, Austria"
 ---
 
 [More information here](https://github.com/valeriemarissens/GRAZ2026-WorkshopConsciousnessBCI/)
+
+![Graz, Austria](/images/Graz.JPG)
